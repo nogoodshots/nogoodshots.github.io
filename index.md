@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Welcome to NoGoodShots GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/nogoodshots/nogoodshots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[What is this website?](about)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why NoGoodShots?
+No Good Shots was the semi-anonymous, self-deprecating name I chose for my Instagram account. I still feel it sets a sense of low expectations which hopefully one day I can achieve.
 
-### Markdown
+### What content can you find here?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well for now this is about it. Come back at the beginning of December 2020 and hopefully I have managed to dedicate enough energy into at least a paragraph of ramblings.
 
-```markdown
-Syntax highlighted code block
+Thanks for reading, hope to see you again.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nogoodshots/nogoodshots.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

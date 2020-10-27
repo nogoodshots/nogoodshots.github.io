@@ -1,1 +1,2 @@
-theme: jekyll-theme-midnight
+kramdown:  
+  parse_block_html: true

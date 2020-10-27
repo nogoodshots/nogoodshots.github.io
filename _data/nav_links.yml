@@ -1,0 +1,10 @@
+nav_links:
+
+- title: NoGoodShots
+  url: /
+  
+- title: About
+  url: /about
+
+- title: Manual
+  url: /about/manual
