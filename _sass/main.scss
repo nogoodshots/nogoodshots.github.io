@@ -1,4 +1,56 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #DC143C;
+$primary-text-color: #E9967A;
+
+body {
+  font: 100% $font-stack;
+  background-color: $primary-color;
+  color: $primary-text-color;
+  margin-top: 160px;
+}
+
+header {
+  background-color: $primary-text-color;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 160px;
+}
+
+h1 {
+  text-align: center;
+  color: $primary-color;
+}
+
+.navbar nav {
+  width: 100%;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar a {
+  display: block;
+  padding: 8px;
+}
+
+.navbar a:hover {
+  background-color: #111;
+}
+
+.subtitle {
+  text-align: center;
+}
+
 .current {
-  color: green;
+  background-color: $primary-color;
 }
 
