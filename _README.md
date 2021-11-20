@@ -21,3 +21,23 @@ Replace the value between : and ; with the chosen code.
 
 Repeat the same for primary-text-color (apologies for the American spelling).
 
+
+
+It is hard to get ssh working
+
+On Mac
+
+ssh-keygen -t ed25519 -C "nogoodshots@gmail.com"
+
+eval "$(ssh-agent -s)"
+
+touch ~/.ssh/config
+vi ~/.ssh/config
+
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+
+ssh-add -K ~/.ssh/id_ed25519
+
