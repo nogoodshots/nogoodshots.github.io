@@ -54,3 +54,13 @@ h1 {
   background-color: $primary-color;
 }
 
+.column1image img {
+  max-width: 75%;
+  height: auto;
+}
+
+img.column1image {
+  float: left;
+  max-width: 50%;
+  height: auto;
+}
