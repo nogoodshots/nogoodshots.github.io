@@ -2,10 +2,12 @@
 layout: default
 title: Meditation
 ---
-
+#Meditation
 This link is to Smiling Mind. Their website is full of mindfulness videos and activities you can do to wind down and relax.
 
-https://www.smilingmind.com.au
+(https://www.smilingmind.com.au)
+
+
 
 
 
