@@ -9,7 +9,7 @@ This link is to Smiling Mind. Their website is full of mindfulness videos and ac
 [https://www.smilingmind.com.au/mindfulness](https://www.smilingmind.com.au/mindfulness)
 
 
-<p></p>
+<p class="blank"></p>
 
 
 ### Relaxing Yoga Positions 
