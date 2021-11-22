@@ -24,6 +24,11 @@ h1 {
   color: $primary-text-color;
 }
 
+p {
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+
 .navbar nav {
   width: 100%;
 }
@@ -67,10 +72,11 @@ img.column1image {
   padding-bottom: 20px;
 }
 
-.gallery img {
+img.yogaimage {
   max-width: 50%;
   height: auto;
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 
